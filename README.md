@@ -18,7 +18,7 @@ Este projeto está sob a licença [Creative Commons Attribution 4.0 Internationa
 
 ## Conecte-se comigo
 
-[![Portfólio](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://vinimateuslima.github.io/portfolio-vinicius-lima)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-30A3DC?style=for-the-badge)](https://vinimateuslima.github.io/portfolio-vinicius-lima)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:viniciusmateus.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-mateus-924807181/)
 
