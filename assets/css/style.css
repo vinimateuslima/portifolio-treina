@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Roboto;
 }
 
 .cabecalho, .cards {
@@ -8,7 +9,7 @@
 }
 
 .cabecalho {
-    padding: 50px 0;
+    padding: 50px 20px;
 }
 
 .cabecalho span {
@@ -16,7 +17,13 @@
 }
 
 .cabecalho h1 {
-    font-size: 50px;
+    font-size: 80px;
+}
+
+.cabecalho h2 {
+    font-size: 40px;
+    margin-left: 15px;
+    font-weight: 400;
 }
 
 .banner {
@@ -64,6 +71,10 @@
     width: 80px;
     margin-bottom: 10px;
     
+}
+
+video {
+    margin-top: -250px;
 }
 
 
